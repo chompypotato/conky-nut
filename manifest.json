@@ -3,7 +3,7 @@
 	"description": "RetroArch in your browser!",
 	"icons": [
 		{
-			"src": "assets/icons/icont256.png",
+			"src": "assets/icons/conkynut.png",
 			"sizes": "256x256",
 			"type": "image/png"
 		},
