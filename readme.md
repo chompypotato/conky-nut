@@ -1,5 +1,6 @@
 # some rom urls:
 https://github.com/vmartinv/nek/tree/master/roms
+https://github.com/hxh-robb/pokemon-roms/tree/master
 
 
 # webretro
