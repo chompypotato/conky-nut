@@ -1,5 +1,5 @@
 {
-	"name": "webretro",
+	"name": "conky nut",
 	"description": "RetroArch in your browser!",
 	"icons": [
 		{
@@ -8,19 +8,19 @@
 			"type": "image/png"
 		},
 		{
-			"src": "assets/icons/iconm128.png",
+			"src": "assets/icons/conkynut.png",
 			"sizes": "128x128",
 			"type": "image/png",
 			"purpose": "maskable"
 		},
 		{
-			"src": "assets/icons/iconm256.png",
+			"src": "assets/icons/conkynut.png",
 			"sizes": "256x256",
 			"type": "image/png",
 			"purpose": "maskable"
 		},
 		{
-			"src": "assets/icons/iconm512upscaledm256.png",
+			"src": "assets/icons/conkynut.png",
 			"sizes": "512x512",
 			"type": "image/png",
 			"purpose": "maskable"
