@@ -29,11 +29,11 @@ body {
 }
 
 body[data-theme~="iodinedark"] {
-	--barcolor: #2b2b2b;
-	--subcolor: #242424;
+	--barcolor: #964B00;
+	--subcolor: #964B00;
 	--barfontcolor: #dfdfdf;
 	--subfontcolor: #dfdfdf;
-	--disabledfontcolor: #898989;
+	--disabledfontcolor: #964B00;
 }
 
 body[data-theme~="webplayer"] {
