@@ -2,7 +2,7 @@ body {
 	overflow: hidden;
 	font-family: sans-serif;
 	color: black;
-	background-color: darkbrown !important;
+	background-color: darkbrown;
 	--ffd-min: 200px;
 	
 	/* theme */
