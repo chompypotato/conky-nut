@@ -45,7 +45,7 @@ body[data-theme~="webplayer"] {
 	--subpadding: 10px;
 	--rounding: 2px;
 	--barcolor: #0275d8;
-	--subcolor: #f8f8f8;
+	--subcolor: #964B00;
 	--barfontcolor: #ffffff;
 	--subfontcolor: #202020;
 	--barbuttoncolor: rgba(255, 255, 255, 0.15);
@@ -57,7 +57,7 @@ body[data-theme~="navy"] {
 }
 
 #mainarea {
-	background-color: black;
+	background-color: #964B00;
 	position: absolute;
 	width: 100vw;
 	height: 100vh;
