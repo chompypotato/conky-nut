@@ -2,7 +2,7 @@ body {
 	overflow: hidden;
 	font-family: sans-serif;
 	color: black;
-	background-color: brown !important;
+	background-color: #964B00 !important;
 	--ffd-min: 200px;
 	
 	/* theme */
