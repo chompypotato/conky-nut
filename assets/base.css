@@ -57,7 +57,7 @@ body[data-theme~="navy"] {
 }
 
 #mainarea {
-	background-color: #964B00;
+	background-color: brown;
 	position: absolute;
 	width: 100vw;
 	height: 100vh;
