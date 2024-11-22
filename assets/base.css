@@ -456,17 +456,10 @@ input[type="file"] {
 	overflow: hidden;
 	height: 100%;
 	display: none;
-	background-color: black;
+	background-color: gray;
 }
 
 #coreselectarea h3 {
-	height: 25px;
-	line-height: 25px;
-	margin: 10px 0px;
-	color: white;
-}
-
-#coreselectarea p {
 	height: 25px;
 	line-height: 25px;
 	margin: 10px 0px;
