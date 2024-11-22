@@ -456,6 +456,7 @@ input[type="file"] {
 	overflow: hidden;
 	height: 100%;
 	display: none;
+	background-color: black;
 }
 
 #coreselectarea h3 {
