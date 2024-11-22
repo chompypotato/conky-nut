@@ -466,6 +466,13 @@ input[type="file"] {
 	color: white;
 }
 
+#coreselectarea p {
+	height: 25px;
+	line-height: 25px;
+	margin: 10px 0px;
+	color: white;
+}
+
 .coreorderrow {
 	height: 20px;
 	margin: 0px;
