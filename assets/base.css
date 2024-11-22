@@ -476,6 +476,7 @@ input[type="file"] {
 	height: 20px;
 	line-height: 20px;
 	display: inline-block;
+	color: white;
 }
 
 #coreorder {
@@ -488,6 +489,7 @@ input[type="file"] {
 .corelistul {
 	height: calc(100% - 75px);
 	overflow: auto;
+	color: white;
 }
 
 #ffd .source {
