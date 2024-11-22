@@ -435,7 +435,7 @@ input[type="file"] {
 	border-radius: 2px;
 	padding: 4px;
 	font-size: 13px;
-	background-color: white;
+	background-color: gray;
 	transition: background-color 0.1s ease;
 }
 
@@ -449,6 +449,7 @@ input[type="file"] {
 }
 
 #uploadarea {
+	background-color:gray;
 	padding: 10px;
 }
 
